@@ -1,39 +1,43 @@
 <div align="center">
 
-# PointSav Digital Systems AG
-### *Institutional-Grade Sovereign Computing*
+# Woodfine Management Corp.
+### *Procurement, Development & Management of Real Property*
 **Vancouver | New York | Berlin**
 
-[ **Technical Docs** ](https://github.com/pointsav/content-wiki-documentation) | [ **System Monorepo** ](https://github.com/pointsav/pointsav-monorepo) | [ **Design Assets** ](https://github.com/pointsav/pointsav-design-system)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Brand Assets** ](https://github.com/woodfine/woodfine-design-system) | [ **System Vendor** ](https://github.com/pointsav)
 
 <br/>
 
-### 🚀 **[ VIEW LIVE FLEET DEPLOYMENT (WOODFINE) ](https://github.com/woodfine)** 🚀
-*See our engines running in production environments.*
+### 🛠️ **[ VIEW SOURCE CODE (POINTSAV) ](https://github.com/pointsav)** 🛠️
+*Powered by Sovereign Operating Systems.*
 
 </div>
 
 ---
 
-## 🎯 Executive Mandate | Mandato Ejecutivo
-**PointSav** architects verified operating environments for critical infrastructure. We eliminate supply chain opacity by asserting **Sovereignty** over the entire stack—from the verified seL4 boot boundary ($0x1002a3$) to the user interface.
+## 🏢 Corporate Mandate | Mandato Corporativo
+**Woodfine Management Corp.** serves as the operating arm for **Woodfine Capital Projects Inc.** Our mission is the secure procurement and management of real property assets through **Sovereign Computing**.
 
-*PointSav diseña entornos operativos verificados para infraestructuras críticas. Eliminamos la opacidad de la cadena de suministro afirmando la Soberanía sobre toda la pila, desde el límite de arranque verificado de seL4 ($0x1002a3$) hasta la interfaz de usuario.*
+*Woodfine Management Corp. sirve como el brazo operativo de Woodfine Capital Projects Inc. Nuestra misión es la adquisición y gestión segura de activos inmobiliarios a través de la Computación Soberana.*
 
-## 🗺️ The Sovereign Ecosystem | El Ecosistema Soberano
-
-### 🏭 The Factory (Engineering)
-* **[`pointsav-monorepo`](https://github.com/pointsav/pointsav-monorepo)**: The unified source tree governed by our **6-Tier Taxonomy**. Currently provisioning the `system-network-interface` for bare-metal VirtIO bridging.
-* **[`content-wiki-documentation`](https://github.com/pointsav/content-wiki-documentation)**: Architectural Decision Records (ADR), 3-Node Mesh topology, and hardware forensics.
-
-### 🎨 The Interface (UX)
-* **[`pointsav-design-system`](https://github.com/pointsav/pointsav-design-system)**: The visual truth. Semantic tokens for our Cinematic WGPU Engine.
+### 🔑 Operational Pillars | Pilares Operativos
+* **Perpetual Equity:** Long-term value creation over short-term liquidity.
+* **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio.
+* **Sovereignty:** All data is secured on decentralized **PointSav Totebox** nodes.
 
 ---
-### 🤝 Contribution Policy
-We welcome contributors who adhere to our **"Leapfrog 2030"** standards. All code must be memory-safe (Rust), physically anchored, and formally verified.
 
-*Damos la bienvenida a los contribuyentes que se adhieran a nuestros estándares "Leapfrog 2030". Todo el código debe ser seguro para la memoria (Rust), estar anclado físicamente y verificado formalmente.*
+## 📡 Operational Fleet | Flota Operativa
+
+### 🎛️ Infrastructure (The 3-Node Mesh)
+* **[`woodfine-fleet-manifest`](https://github.com/woodfine/woodfine-fleet-manifest)**: The active register of all physical servers. Currently operating across:
+  * **Node 1 (Muscle):** Bare-metal infrastructure execution.
+  * **Node 2 (Relay):** Cloud-based static IP anchoring.
+  * **Node 3 (Brain):** Virtualized cryptographic command.
+
+### 📚 Governance (The Law)
+* **[`content-wiki-corporate`](https://github.com/woodfine/content-wiki-corporate)**: Internal policies, HR mandates, and financial controls.
+* **[`content-wiki-projects`](https://github.com/woodfine/content-wiki-projects)**: Daily logs for active development sites.
 
 ---
-*© 2026 PointSav Digital Systems AG. Verified Execution Environment.*
+*© 2026 Woodfine Management Corp. Powered by PointSav OS.*
