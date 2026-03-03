@@ -13,7 +13,7 @@
 ### Operational Fleet | Flota Operativa
 
 **Infrastructure (The Metal)**
-* `fleet-deployment-manifest`: The active register of all physical servers (`fleet-infrastructure-*`) and cloud gateways.
+* `fleet-deployment-manifest`: Active register of physical servers (Node 1 Foundation Verified) and cloud gateways.
 * `route-network-admin`: The Command Gateway enforcing the Diode Standard.
 
 **Platform & Delivery (The Orchestration)**
