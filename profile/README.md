@@ -1,8 +1,8 @@
 <div align="center">
 
-# J. Woodfine | Operations Lead
+# Jennifer M. Woodfine | Contributor
 ### *Staging Environment for Woodfine Management Corp.*
-**Fleet Orchestration | Private Network | Infrastructure**
+**Fleet Orchestration | PointSav Private Network™ | Infrastructure**
 
 [ **View Production (Woodfine)** ](https://github.com/woodfine)
 
@@ -14,7 +14,7 @@
 
 **Infrastructure (The Metal)**
 * `fleet-deployment-manifest`: Active register of physical servers (Node 1 Foundation Verified) and cloud gateways.
-* `route-network-admin`: The Command Gateway enforcing the Diode Standard.
+* `route-network-admin`: The PointSav Command Centre™ enforcing the Diode Standard.
 
 **Platform & Delivery (The Orchestration)**
 * `cluster-totebox-*`: Isolated data containers for Corporate, Personnel, and Real Property.
@@ -25,4 +25,4 @@
 * `content-wiki-projects`: Daily logs for active development sites.
 
 ---
-*Verified Operator of the Woodfine Fleet. Governed by the Sovereign Data Foundation.*
+*Verified Contributor of the Woodfine Fleet. Governed by the Sovereign Data Foundation.*
