@@ -24,6 +24,13 @@ Jennifer Woodfine is a corporate manager at Woodfine Management Corp. She leads 
 
 She translates complex microkernel technology into daily administrative workflows. Her management allows traditional corporate staff to operate sovereign architecture securely. She ensures that daily execution seamlessly matches the security of the underlying system. This proves that operational independence from legacy SaaS is achievable at the management level.
 
+## 🧭 Master Navigation Index
+* **[ ➔ The Engineering Blueprint ](https://github.com/pointsav/pointsav-monorepo)**
+* **[ ➔ The Operational Fleet ](https://github.com/woodfine/woodfine-fleet-deployment)**
+* **[ ➔ System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)**
+* **[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)**
+* **[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
+
 ---
 *© 2026 Woodfine Management Corp.*
 *Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
