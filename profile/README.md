@@ -25,12 +25,12 @@ This identity is authorized for staging and deployment operations across the Woo
 ## 📡 Authorized Deployment Domains
 | Sector | Repository | Execution Role |
 | :--- | :--- | :--- |
-| **The Metal** | `woodfine-fleet-manifest` | Active register of Node 1 physical servers and cloud gateways. |
-| **The Metal** | `route-network-admin` | The PointSav Command Centre™ configuration enforcing the Diode Standard. |
-| **Orchestration** | `cluster-totebox-*` | Isolated data containers for Corporate, Personnel, and Real Property. |
-| **Orchestration** | `node-console-*` | Bare-metal user terminals for secure interaction. |
-| **Governance** | `content-wiki-corporate` | Internal policies, HR mandates, and financial controls. |
-| **Governance** | `content-wiki-projects` | Daily logs for active development sites. |
+| **The Metal** | woodfine-fleet-deployment | Active register of Node 1 physical servers and cloud gateways. |
+| **The Metal** | route-network-admin | The PointSav Command Centre™ configuration enforcing the Diode Standard. |
+| **Orchestration** | cluster-totebox-* | Isolated data containers for Corporate, Personnel, and Real Property. |
+| **Orchestration** | node-console-* | Bare-metal user terminals for secure interaction. |
+| **Governance** | content-wiki-corporate | Internal policies, HR mandates, and financial controls. |
+| **Governance** | content-wiki-projects | Daily logs for active development sites. |
 
 ---
 *Verified Contributor of the Woodfine Fleet. Governed by the Sovereign Data Foundation.*
