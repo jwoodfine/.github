@@ -1,36 +1,24 @@
 <div align="center">
 
 # Jennifer M. Woodfine
-### *Corporate Manager & Operations Guide*
-
-<br/>
-
-**[ ➔ View the Active Operational Fleet ](https://github.com/woodfine/woodfine-fleet-deployment)**
+### Head of Operations & Real Estate Development, Woodfine Management Corp.
 
 </div>
 
 <br/>
 
-> [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION**
-> This profile represents an active corporate manager. It contains no live credentials or active network payloads.
+I lead operations and real estate development at Woodfine Management Corp. My team manages properties and development programmes across North America and Europe, running daily operations on PointSav's platform — machine-readable records, no conventional IT department, no third-party cloud dependency for core institutional data.
 
-| Architecture Tier | Component Role | Governance Anchor |
-| :--- | :--- | :--- |
-| 🟢 Active | Fleet Management | Sovereign Disclosure Standard |
-
-## 📖 The Digital Transformation Record
-Jennifer Woodfine is a corporate manager at Woodfine Management Corp. She leads the operational execution of the firm's digital transformation. 
-
-She translates complex microkernel technology into daily administrative workflows. Her management allows traditional corporate staff to operate sovereign architecture securely. She ensures that daily execution seamlessly matches the security of the underlying system. This proves that operational independence from legacy SaaS is achievable at the management level.
-
-## 🧭 Master Navigation Index
-* **[ ➔ The Engineering Blueprint ](https://github.com/pointsav/pointsav-monorepo)**
-* **[ ➔ The Operational Fleet ](https://github.com/woodfine/woodfine-fleet-deployment)**
-* **[ ➔ System Architecture Wiki ](https://github.com/pointsav/content-wiki-documentation)**
-* **[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)**
-* **[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
+The fleet manifest linked here is what we operate on every day. The engineering monorepo is the platform we operate on.
 
 ---
+
+**[→ Woodfine Fleet Deployment](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp; The operational deployment manifest.
+
+**[→ PointSav Engineering Monorepo](https://github.com/pointsav/pointsav-monorepo)** &nbsp; The platform's source code and architecture.
+
+**[→ woodfinegroup.com](https://woodfinegroup.com)**
+
+---
+
 *© 2026 Woodfine Management Corp.*
-*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
